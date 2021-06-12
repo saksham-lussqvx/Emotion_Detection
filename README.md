@@ -1,2 +1,2 @@
 # Emotion_Detection
-This program can detect many types of emotion in real life and is suitable to run on raspberry pi or similar hardware configuration. 
+Made specially to detect emotions in real time, this program can easily detect your face and then with the help of pre-trained model, it is able to detect your emotions easily and fastly. This program can be embedded into many other projects such as monitoring systems, live streaming, etc.
